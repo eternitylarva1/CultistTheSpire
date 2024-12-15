@@ -1,0 +1,10 @@
+{
+  "modid": "MoreCultist",
+  "name": "[更多咔咔]CultistMod",
+  "author_list": ["Butterfly"],
+  "description": "增加了更多的咔咔",
+  "version": "0.0.1",
+  "sts_version": "12-22-2020",
+  "mts_version": "3.23.2",
+  "dependencies": ["basemod"]
+}
